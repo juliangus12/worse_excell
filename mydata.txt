@@ -1,0 +1,30 @@
+Golden State Warriors,San Francisco,53,29,0.646
+Los Angeles Lakers,Los Angeles,33,49,0.402
+Miami Heat,Miami,53,29,0.646
+Milwaukee Bucks,Milwaukee,51,31,0.622
+Cleveland Cavaliers,Cleveland,44,38,0.537
+Boston Celtics,Boston,51,31,0.622
+Dallas Mavericks,Dallas,52,30,0.634
+Houston Rockets,Houston,20,62,0.244
+Oklahoma City Thunder,Oklahoma,24,58,0.293
+Washington Wizards,Washington,35,47,0.427
+Philadelphia 76ers,Philadelphia,51,31,0.622
+Utah Jazz,Salt Lake City,49,33,0.598
+Los Angeles Clippers,Los Angeles,42,40,0.512
+Denver Nuggets,Denver,48,34,0.585
+New York Knicks,Manhattan,37,45,0.451
+Phoenix Suns,Phoenix,64,18,0.780
+Brooklyn Nets,Brooklyn,44,38,0.537
+San Antonio Spurs,San Antonio,34,48,0.415
+Chicago Bulls,Chicago,46,36,0.561
+Atlanta Hawks,Atlanta,43,39,0.524
+Sacramento Kings,Sacramento,30,52,0.366
+Minnesota Timberwolves,Minnesota,46,36,0.561
+Toronto Raptors,Toronto,48,34,0.585
+Orlando Magic,Orlando,22,60,0.268
+Portland Trail Blazers,Portland,27,55,0.329
+Memphis Grizzlies,Memphis,56,26,0.683
+Charlotte Hornets,Charlotte,43,39,0.524
+Detroit Pistons,Detroit,23,59,0.280
+Indiana Pacers,Indiana,25,57,0.305
+New Orleans Pelicans,New Orleans,36,46,0.439
